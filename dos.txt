@@ -1,0 +1,30 @@
+tree
+
+dir
+
+cd ..
+
+cd /
+
+c: d: enz
+
+mkdir
+
+rmdir
+
+copy
+
+del
+
+date
+
+tracert
+
+ping
+
+.bat	executeble
+
+echo	echo input to output
+
+> file	send output to file
+

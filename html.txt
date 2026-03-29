@@ -1,0 +1,61 @@
+HTML Distilled - The bare minimum                     Dennitizer Dynamics 2022
+
+<html>		Defines the root of an HTML document
+<head>
+<body>		Defines the document's body
+
+Comment Tag	<!-- Write your comments here -->
+
+DOCTYPE		<!DOCTYPE html>
+
+lang 		<html lang="en-US">
+
+Headings	<h1>This is heading 1</h1>
+
+Paragraphs	<p>This is a paragraph.</p>
+
+Links		<a href="https://www.site.com">linktext</a>
+
+Images		<img src="image.jpg" alt="text" width="128" height="64">
+
+line break	<br>
+Horizontal line <hr>
+
+preformatted	<pre>text and some		space</pre>
+
+title 		<p title="tooltip text">This is a paragraph.</p>
+
+style 		<p style="color:red;">This is a red paragraph.</p>
+		<h1 style="font-size:60px;">Heading 1</h1>
+		<tagname style="property:value;">
+		<h1 style="background-color:powderblue;">This is a heading</h1>
+		<h1 style="color:blue;">This is a heading</h1>
+		<h1 style="font-family:verdana;">This is a heading</h1>
+		<h1 style="font-size:300%;">This is a heading</h1>
+		<h1 style="text-align:center;">Centered Heading</h1>
+
+Formatting 	<b> - Bold text
+		<strong> - Important text
+		<i> - Italic text
+		<em> - Emphasized text
+		<mark> - Marked text
+		<small> - Smaller text
+		<del> - Deleted text
+		<ins> - Inserted text
+		<sub> - Subscript text
+		<sup> - Superscript text
+		
+Long Quotation	<blockquote cite="source">text</blockquote>
+
+Short Quotation <q>text</q>
+
+Abbreviations	<abbr title="mouse-over text">document text</abbr>
+
+Contact Info	<address>name<br>address<br>postalcode, city</address>
+
+Cite		<p><cite>title</cite> by name</p>
+
+Bi-Directional Override <bdo dir="rtl">This text will be written from right to left</bdo>
+
+Border 		<h1 style="border:2px solid Tomato;">Hello World</h1>
+

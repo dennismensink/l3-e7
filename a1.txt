@@ -1,0 +1,78 @@
+[ Comptia A+ 1 ]
+
+[ Methodology ]
+
+	1 Identify the problem
+	2 Establish a theory of probable cause
+	3 Test the theory to determine the cause
+	4 Establish a plan of action to resolve the problem and implement a solution
+	5 Verify full system functionality
+	6 Document the findings, actions and outcome
+
+[ Bits and Bytes ]
+
+	bit    = 1 or 0		b = bit
+	Nibble = 4 bit		B = Byte
+	Byte   = 8 bit
+
+[ Ports ]
+	{Outside}
+
+	Memory cardreader	(sd style)
+	Audio In		mic
+	Audio Out		speakers	
+	Audio I/O		speakers and mic / headset
+	USB A			Superspeed
+	USB C			Superspeed
+	Display port		Video
+	HDMI			Video
+	USB A			(2.0)	
+	Network			RJ45 (10/100/1000 bps)
+	DVI			Video
+	SPDIF			optical audio
+	Power			power 
+	*
+
+	Kensington lock		hardware lock connector
+
+	{Inside}
+	*
+
+[ Serial ]
+
+	DB9	sub D		D shaped connector sub-miniature pins (9) 
+				serial data transmission (Slow) (115 Kbps)
+				router, switch or old devices only 1 device.
+	
+	USB			Max 127 devices as Daisy chain per controller
+				
+
+[ Speeds ]
+
+	{Serial}
+	Sub D9		up to 115 kbps
+
+	{USB}
+	current name	original name	market name	speed		max rec.lenght	max power
+	USB 2.0		USB 1.0		LowSpeed	1.5 Mbps	3 Meter		500 mA
+	USB 2.0		USB 1.1		FullSpeed	12 Mbps		5 Meter		500 mA
+	USB 2.0		USB 2.0		Hi-Speed	480 Mbps	5 Meter		500 mA
+	USB 3.2	gen 1	USB 3.1 gen 1	SuperSpeed	5 Gbps		3 Meter		900 mA
+	USB 3.2 gen 2	USB 3.1 gen 2	SuperSpeed	10 Gbps		3 Meter		900 mA
+	USB 3.2 gen 2x2	...		SuperSpeed	20 Gbps		3 Meter		900 mA
+	USB 4		...		...		40 Gbps		3 Meter		...
+
+	Shorter cable faster, 
+	longer more resistance / deterioration = slower or to long device not working
+
+	PD	Powered device port up to 1500 mA
+
+[ USB connectors]
+	
+	USB A		most common flat rectangular (1 direction) (USB 2/3)
+	USB B 2.0	square (USB 2) (older printers)
+	USB type Bmicro like de micro with a square on de side, figure 8 (external hard drives)
+	USB B 3.0	2 squares stacked (USB 3) (printers)
+	USB C		Newest	rounded corners	(either direction) (USB 3) 
+	USB Mini	trapezoid (USB 2) (older phones / tablets)
+	USB micro	like mini but smaller flatter (USB 2) (wearebles older phones tablets)

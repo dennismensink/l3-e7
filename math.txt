@@ -1,0 +1,3 @@
+ Cos(a)*r                   calculate x
+ Sin(a)*r                   calculate y
+ Cos-1(r/x)                 calculate a
