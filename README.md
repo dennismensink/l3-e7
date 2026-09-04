@@ -1,2 +1,4 @@
 # l3-e7
-L3-E7
+
+Work in progress.
+First Aplha test.
